@@ -1,0 +1,12 @@
+Jump into the shallow end with both feet.
+- give the player enough knowledge to know how to Do The Thing, but holding their hands isn't strictly necessary
+- a famous arduino example is the blink sketch - the idea is to get the circuit wired, then upload the code, and the led should blink once a second.  "Jump into the shallow end with both feet" - "good, it's blinking once a second.  now make it blink SOS."  The student already got the code in place to turn the led on/off every second, now they learn they can adjust timings.  A similar concept works here - "ok, i know if I put that resistor that says 10 between the battery and the led, it keeps the led from blowing up - that means it's limiting how much electricity gets through to the led.  What if i change the 10 to 220?"
+
+Teach intuition before theory.
+- learning the laws isn't strictly important at first - the player should feel free, welcome, almost invited to experiment - because there's **no real consequences.**  There's no financial outlay involved for new equipment, no potential fires, etc - if something blows up, drag a new one onto the screen.  The player should be able to have a sense of what they need to do, or how to do what they want.  They should grasp the fact that a bigger number means a dimmer led - they don't need the understanding of why that works, at least initially.  a 4 year old should be as comfortable playing randomly with this as a 64 year old should.  If a student is talking to someone who has circuit design experience, this should help them develop the intuition needed to explain what they did, even if terms are wrong.  They may not know why the 220 made the led dimmer, but if they told the engineer the idea and told them they swapped out the 10 for a 220 and the led got dimmer, it would make sense to the engineer.
+
+Consequences teach better than warnings.
+- as above, there are no real world consequences here - but that doesn't mean there aren't consequences.  I feel humans work better with at least some visual stimulus - watching something blow up on screen will be more effective than a warning popping up.  The player should see what happens if X, or Y, or if they forget to put Z into the circuit.  This is borrowing from real world science; chemistry and physics labs meant you could take what was in your textbook and watch it actually happen.  The same principle is in play here, minus the textbook.  
+
+
+
